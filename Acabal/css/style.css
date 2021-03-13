@@ -1,0 +1,17 @@
+ul{
+	display:block;
+	border-style:double;
+	padding: 10px 20px;
+	
+}
+
+table{
+	border: 2px solid;
+	padding: 10px 20px;
+	display:block;
+}
+p{
+	border: 2px ridge;
+	padding: 10px 20px;
+	display:block;
+}
